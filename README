@@ -1,0 +1,11 @@
+The procedure is very simple.
+
+Overall_Code.R contains all the code.
+Set the working directory in R which contains 4 datafiles.
+
+The install.package commands are commented. If packages used are not preinstalled, uncomment those lines.
+if any problem occurs mail me at siddhantaditya01@gmail.com
+
+the code will take long time as it trains multiple models
+
+the code will update the solution.csv file with the generated output
